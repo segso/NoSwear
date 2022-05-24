@@ -1,0 +1,15 @@
+{
+    "commands": {
+        "add_insult": "..add-insult",
+        "remove_insult": "..remove-insult"
+    },
+    "insult_added": ":white_check_mark: Added insult :thumbsup:",
+    "add_insult_missing_args": ":x: Type the insult you want to add",
+    "insult_removed": ":white_check_mark: Removed insult :thumbsup:",
+    "remove_insult_missing_args": ":x: Type the insult you want to remove",
+    "insult_not_found": ":x: That insult is not added",
+    "embed": {
+        "muted_description": ":x: %USER% has been muted\n:watch: %SECONDS%s",
+        "unmuted_description": ":white_check_mark: %USER% has been unmuted\n:worried: Please don't insult"
+    }
+}
